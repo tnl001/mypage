@@ -3,12 +3,15 @@
 ![In Progress](https://www.clipartkey.com/mpngs/m/293-2938906_web-development-clipart-slider-software-engineering-logo-clip.png)
 
 ## Table of contents
-- [About](https://github.com/tnl001/mypage/blob/markdown/index.md#about-me)
-- [Experience](https://github.com/tnl001/mypage/blob/markdown/index.md#experience)
-- [Projects](https://github.com/tnl001/mypage/blob/markdown/index.md#projects)
-- [Languages/Technologies](https://github.com/tnl001/mypage/blob/markdown/index.md#favorite-programming-languagestechnologies)
-- [Todo](https://github.com/tnl001/mypage/blob/markdown/index.md#todo-this-quarter)
-- [Miscellaneous](https://github.com/tnl001/mypage/blob/markdown/index.md#miscellaneous)
+- [Welcome to my page!](#welcome-to-my-page)
+  - [Table of contents](#table-of-contents)
+  - [About me](#about-me)
+  - [Experience](#experience)
+  - [Projects](#projects)
+  - [Favorite programming languages/technologies](#favorite-programming-languagestechnologies)
+          - [Other technologies](#other-technologies)
+  - [Todo this quarter](#todo-this-quarter)
+  - [Miscellaneous](#miscellaneous)
   
 ## About me
 My name is Tai and I'm currently a 3rd year student at UC San Diego majoring in Cognitive Science: Machine Learning & Neural Computation. I like working with technologies and learning about their impact in the evolution of society. My hobbies include hiking, swimming, and going to the theater (with friends ~~or alone~~)!
