@@ -9,7 +9,6 @@
 - [Languages/Technologies](https://github.com/tnl001/mypage/blob/markdown/index.md#favorite-programming-languagestechnologies)
 - [Todo](https://github.com/tnl001/mypage/blob/markdown/index.md#todo-this-quarter)
 - [Miscellaneous](https://github.com/tnl001/mypage/blob/markdown/index.md#miscellaneous)
-- Check out my gitignore file: [Ignored files](./.gitignore)
   
 ## About me
 My name is Tai and I'm currently a 3rd year student at UC San Diego majoring in Cognitive Science: Machine Learning & Neural Computation. I like working with technologies and learning about their impact in the evolution of society. My hobbies include hiking, swimming, and going to the theater (with friends ~~or alone~~)!
@@ -43,5 +42,6 @@ I'm also currently **learning** and messing around with ASP.NET and I think it's
 - [ ] Nail coding interviews
 
 ## Miscellaneous
-The most **scary** saying (in my opinion) while studying computer science at UC San Diego:
+- Check out my science-engineering related courseworks here: [Courses](./courses.md)
+- The most **scary** saying (in my opinion) while studying computer science at UC San Diego:
 > Start early, start often
