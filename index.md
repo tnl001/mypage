@@ -1,6 +1,6 @@
 # Welcome to my page!
 ***This page is still under construction!!!***
-![In Progress](https://www.clipartkey.com/mpngs/m/293-2938906_web-development-clipart-slider-software-engineering-logo-clip.png)
+![In Progress](https://github.com/tnl001/mypage/blob/markdown/home.png)
 
 ## Table of contents
 - [Welcome to my page!](#welcome-to-my-page)
