@@ -1,6 +1,6 @@
 # Welcome to my page!
 ***This page is still under construction!!!***
-![In Progress](https://github.com/tnl001/mypage/blob/baf073197425d29ca6bd407a1c5457f262634986/home.png)
+![In Progress](https://raw.githubusercontent.com/tnl001/mypage/markdown/home.png)
 
 ## Table of contents
 - [Welcome to my page!](#welcome-to-my-page)
